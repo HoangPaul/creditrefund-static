@@ -1,0 +1,6 @@
+# static site
+node_modules/
+resources/assets/vendor/
+public/assets/
+resources/tmp/
+public/
